@@ -1,4 +1,4 @@
-django==1.6
+django==1.11.29
 model_mommy==1.2
 pytest==2.5.2
 pytest-django==2.6
